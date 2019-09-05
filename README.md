@@ -1,3 +1,5 @@
+![Stapler Docker](/art/stapler-docker-logo.png?raw=true "Stapler Docker Logo")
+
 # Stapler Docker
 
 > A simple [Docker](https://www.docker.com) container for manipulating PDF documents with ease using [Stapler](https://github.com/hellerbarde/stapler)
@@ -34,3 +36,12 @@ docker run --rm -v $(pwd)/input:/data/input:ro -v $(pwd)/output:/data/output:rw 
 ### Enjoy
 
 The resulting files can be found inside the `output` folder
+
+---
+
+Made with :sparkles: & :heart: by [Mattia Panzeri](https://github.com/panz3r) and [contributors](https://github.com/panz3r/stapler-docker/graphs/contributors)
+
+If you found this project to be helpful, please consider buying me a coffee.
+
+[![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/4f18nT0Nk)
+
